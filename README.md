@@ -1,4 +1,4 @@
-<h2>身體質量指數BMI │ 計算器</h2>
+<h3>身體質量指數BMI │ 計算器</h3>
 https://amyliu1810.github.io/BMI/
 <br>
-![My Image](img/BMI_.png)
+![image](https://raw.githubusercontent.com/amyliu1810/BMI/main/img/BMI_.png)
